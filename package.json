@@ -1,0 +1,23 @@
+{
+  "name": "mws-restaurant",
+  "version": "1.0.0",
+  "description": "## Para executar a aplicação",
+  "main": "sw.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/washingtondeveloper/mws-restaurant.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/washingtondeveloper/mws-restaurant/issues"
+  },
+  "homepage": "https://washingtondeveloper.github.io/mws-restaurant",
+  "devDependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
